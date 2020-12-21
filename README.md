@@ -1,10 +1,3 @@
----
-title: Pathways »
-author: Keelan Cook
-date: 2020-12-20
-
----
-
 
 ![Pathways Banner Image](https://i.imgur.com/6Mda6eI.png)
 

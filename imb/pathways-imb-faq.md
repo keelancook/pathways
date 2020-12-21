@@ -1,5 +1,6 @@
 ---
 title: Pathways » IMB FAQs
+parent: Pathways » IMB
 author: Keelan Cook
 date: 2020-12-15
 

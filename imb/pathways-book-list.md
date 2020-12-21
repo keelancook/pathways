@@ -1,5 +1,4 @@
 ---
-layout: doc
 title: Pathways » Reading List
 author: Keelan Cook
 date: 2020-12-20

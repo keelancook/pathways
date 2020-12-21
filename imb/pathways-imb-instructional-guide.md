@@ -26,15 +26,6 @@ At its best, discipleship is transformative learning. It's the kind of learning 
 
 Our cohort model attempts this same kind of transformative learning by not reducing the learning process to a list of books, videos, or classroom lectures. Instead, cohorts involve both classroom time, active cross-cultural missionary engagement throughout the month, and fellowship and worship with other cohort members. This back and forth between classroom time and practically engaged ministry creates an important feedback loop where students practice what they are learning with an opportunity to come back together and debrief their experiences together, providing opportunities for them to sharpen their abilities.
 
----
-
-
----
-
-
-
-
----
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTg0NTYzNDU5NiwtMTAzMDQ2MDEwMywtMT
 kxMjQ5MzM2NSwtMTk5NTk3ODg2NywtMTIyNDc4NDQ4MCw0OTc2

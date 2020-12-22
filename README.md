@@ -3,35 +3,12 @@
 
 
 ## Pathways » Introduction
-Pathways » is a collaborative effort by the church of the Union Baptist Association to identify, equip, send, and support their own members in an array of Great Commission tasks.
+Pathways » is a collaborative effort by the churches of the Union Baptist Association to identify, equip, send, and support their own members in an array of Great Commission tasks.
 
+`Include language about the sending spectrum to explain the array and different pathways.`
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## The Pathways
+* [Pathways » IMB](/imb/pathways-imb-instructional-guide/)
+* [Pathways » Planting](/planting/pathways-planting-intro/)
+* [Pathways » Replanting](/replanting/pathways-replanting-intro/)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pmarsceill/test-jtd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

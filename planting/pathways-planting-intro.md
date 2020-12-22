@@ -1,5 +1,5 @@
 ---
-title: Pathways » Introduction
+title: Pathways » Planting
 date: 2020-12-22
 author: Keelan Cook
 has_children: true

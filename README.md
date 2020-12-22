@@ -8,7 +8,7 @@ Pathways » is a collaborative effort by the churches of the Union Baptist Assoc
 `Include language about the sending spectrum to explain the array and different pathways.`
 
 ## The Pathways
-* [Pathways » IMB](/imb/pathways-imb-instructional-guide/)
-* [Pathways » Planting](/planting/pathways-planting-intro/)
-* [Pathways » Replanting](/replanting/pathways-replanting-intro/)
+* [Pathways » IMB](/pathways-imb-instructional-guide/)
+* [Pathways » Planting](/pathways-planting-intro/)
+* [Pathways » Replanting](/pathways-replanting-intro/)
 

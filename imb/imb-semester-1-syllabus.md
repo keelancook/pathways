@@ -2,7 +2,7 @@
 title: Pathways IMB Syllabus Semester One
 author: Keelan Cook
 created: 2021-03-23
-layout: doc
+layout: 
 
 ---
 ![Pathways » IMB Banner Image](https://i.imgur.com/aeVVD30.png)

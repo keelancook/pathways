@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: page
 title: Pathways » IMB FAQs
 author: Keelan Cook
 date: 2020-12-15

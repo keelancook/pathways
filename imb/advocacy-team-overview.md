@@ -1,7 +1,7 @@
 ---
 title: Advocacy Team Overview
 author: Keelan Cook
-layout: 
+layout: page
 created: 2021-02-12
 
 ---

@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: page
 title: Pathways » IMB Instructional Guide
 author: Keelan Cook
 date: 2020-12-15T00:00:00-06:00

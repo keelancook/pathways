@@ -2,6 +2,8 @@
 title: Becoming a Pathways Church
 author: Keelan Cook
 type: page
+nav-order: 1
+has children: true
 created: 2021-02-06
 
 ---

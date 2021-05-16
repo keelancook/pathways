@@ -1,5 +1,5 @@
 ---
-title: Pathways IMB Syllabus Semester One
+title: IMB Syllabus Semester One
 author: Keelan Cook
 created: 2021-03-23
 layout: page
@@ -26,7 +26,7 @@ After completing this course, students should be able to:
 3. *Deepen Discipleship*. International Mission Board, 2019. ([PDF Download](https://www.imb.org/wp-content/uploads/2019/10/Deepen-Discipleship-v2.pdf) or [Online Course](https://imb.pathwright.com/library/deepen-discipleship-055f43a0/102497/about/))
 
 ## Participation Requirements
-Cohort participants are expected to come to all meetings having completed assignments and participated in the necessary activities outside of gathered meetings. Participants are encouraged to remember that the cohort process has two aspects. While students are learning for their own formation, they are also being assessed by their church leaders and those facilitating the cohort in order to provide counsel and recommendations for their potential missionary service. For these leaders to make these kinds of decisions about recommendation with integrity, it takes spending time with the candidates in preparation.
+Cohort participants are expected to come to all meetings having completed assignments and participated in the necessary activities outside of gathered meetings. Participants are encouraged to remember that the cohort process has two aspects. While students are learning for their own formation, they are also being assessed by their church leaders and those facilitating the cohort to provide counsel and recommendations for their potential missionary service. For these leaders to make these kinds of decisions about recommendation with integrity, it takes spending time with the candidates in preparation.
 
 ## Practical Ministry Requirements
 Everyone must participate in some form of practical cross-cultural disciple-making experience that will inform and enhance our group discussion. The purpose of this cohort is more than transmitting information about missions, and it is expected that all cohort participants will engage in real cross-cultural disciple-making practices during the cohort. Cohort time will be dedicated to discussing these experiences, and coming able to share will be expected.

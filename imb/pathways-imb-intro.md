@@ -4,7 +4,7 @@ title: IMB Introduction
 author: Keelan Cook
 created: 2020-12-01
 parent: Pathways » IMB
-nav-order: 1
+nav_order: 1
 
 ---
 ![Pathways » IMB Banner Image](https://i.imgur.com/aeVVD30.png)

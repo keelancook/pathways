@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IMB Introduction
+title: Cohort Introduction
 author: Keelan Cook
 created: 2020-12-01
 parent: Pathways » IMB

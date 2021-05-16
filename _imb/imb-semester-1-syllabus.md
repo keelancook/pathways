@@ -1,8 +1,9 @@
 ---
-title: IMB Syllabus Semester One
+title: Cohort Syllabus Semester One
 author: Keelan Cook
 created: 2021-03-23
 layout: page
+parent: Pathways » IMB
 
 ---
 ![Pathways » IMB Banner Image](https://i.imgur.com/aeVVD30.png)

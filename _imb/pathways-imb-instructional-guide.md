@@ -1,9 +1,10 @@
 ---
 layout: page
-title: IMB Instructional Guide
+title: Cohort Instructional Guide
 author: Keelan Cook
 date: 2020-12-15T00:00:00-06:00
 modified: 2021-03-16T19:18:24-05:00
+parent: Pathways » IMB
 ---
 
 ![Pathways IMB Banner](https://i.imgur.com/aeVVD30.png)

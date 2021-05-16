@@ -3,6 +3,7 @@ layout: page
 title: IMB Introduction
 author: Keelan Cook
 created: 2020-12-01
+parent: Pathways » IMB
 
 ---
 ![Pathways » IMB Banner Image](https://i.imgur.com/aeVVD30.png)

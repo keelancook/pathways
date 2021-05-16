@@ -3,7 +3,7 @@ title: Advocacy Team Overview
 author: Keelan Cook
 layout: page
 created: 2021-02-12
-parent: Pathways » IMB
+
 ---
 
 ![Advocacy Banner](https://i.imgur.com/JkzxoQ7.png)

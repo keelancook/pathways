@@ -4,7 +4,7 @@ author: Keelan Cook
 created: 2021-03-23
 layout: page
 parent: Pathways » IMB
-nav_order: 3
+
 ---
 ![Pathways » IMB Banner Image](https://i.imgur.com/aeVVD30.png)
 

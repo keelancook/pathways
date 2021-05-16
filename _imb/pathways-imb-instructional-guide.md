@@ -9,7 +9,7 @@ parent: Pathways » IMB
 
 ![Pathways IMB Banner](https://i.imgur.com/aeVVD30.png)
 
-## Introduction
+## Instructional Guide
 The goal of Pathways is the growth of the gospel. In the book of Acts, Luke makes it clear that this was his primary metric of success. Repeatedly, he references the spread of the gospel and the manner in which the Word increased and multiplied (Acts 6:7, 12:24, 13:49, 19:20). 
 
 For the gospel to grow to the ends of the earth, someone must take it there. The IMB's Foundations document states it this way: 

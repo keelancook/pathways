@@ -1,5 +1,5 @@
 ---
-title: Cohort Syllabus Semester One
+title: Cohort Syllabus 1
 author: Keelan Cook
 created: 2021-03-23
 layout: page

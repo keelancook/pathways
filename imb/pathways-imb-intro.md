@@ -38,6 +38,9 @@ The International Mission Board (IMB) of the Southern Baptist Convention is one 
 
 The application process considers each of the above-mentioned qualifications: calling, character, and competencies. In addition to these qualifications, the application process examines the physical, mental, and emotional health of the potential sent out one. The application process is extensive, and it can take over a year to complete. However, by participating in a Pathways » IMB cohort, a potential missionary from your church can start the process of application alongside their equipping, streamlining the process and ensuring a completed application process. By the end of the cohort, a participant who is applying for the IMB will have completed all of the necessary application steps to receive trustee approval for being commissioned through the IMB to the nations.
 
+## The Pathways Process
+![Pathways IMB flowchart](https://i.imgur.com/CSLgcQb.png)
+
 ## Additional Questions
 
 If you have additional questions concerning the Pathways » IMB cohorts, application to the IMB through this model, or how you or your church can participate in this initiative, you can find answers to those questions on the [Pathways » IMB FAQ](/docs/pathways-imb-faq/) page.

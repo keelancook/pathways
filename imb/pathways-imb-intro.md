@@ -9,6 +9,15 @@ nav_order: 1
 ---
 ![Pathways » IMB Banner Image](https://i.imgur.com/aeVVD30.png)
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 The goal of this cohort is twofold. By combining a robust equipping process for missionary preparation with guided oversight in completing the IMB application, cohort members will both receive necessary training to succeed at the missionary task and have accomplished all the steps necessary for full application to the IMB. In other words, when someone completes this cohort, we hope that they are both a well-trained missionary and have a completed application packet ready for trustee approval with the IMB.
 
 ## Equipped to be a Missionary

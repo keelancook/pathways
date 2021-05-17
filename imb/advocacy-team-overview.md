@@ -9,6 +9,15 @@ nav_order: 4
 
 ![Advocacy Banner](https://i.imgur.com/JkzxoQ7.png)
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 Advocacy Teams are the most tangible expression of _our church’s _commitment to support our missionaries who are serving in cross-cultural environments. The team is centered around one team leader and can be made up of 4-8 individuals who provide ongoing care and support. They serve as a primary link between the church as a whole and the missionary.
 
 Simply put, an advocate team is a group of people who deeply love and care for their missionary. They communicate, pray for and stay connected to their missionary on a regular basis. Because of these strong personal relationships, the missionary can be open and honest, allowing his or her team to see needs and share successes and defeats.
@@ -17,11 +26,11 @@ Simply put, an advocate team is a group of people who deeply love and care for t
 
 There are two major roles of an Advocacy Team: care and representation. The success of an advocate team depends on its ability to accomplish these two goals from the time that the missionary prepares to leave for the field until his or her return.
 
-_Care_
+### Care
 
 Many missionaries live in physically challenging environments. Some are raising children far from extended family. Others struggle with cultural adjustments and language barriers. Most significantly, all serve on the front lines of spiritual warfare. For survival and spiritual health, missionaries need the assurance that they are not alone, that others in the body of Christ love them and are committed to their welfare and also to the success of their work. missionaries need empathetic listeners— compassionate, caring friends who are not in a supervisory role. The Advocacy Team can consistently provide that kind of spiritual and emotional care. Caring also involves identifying specific needs which the team can meet or organize others in our church to meet.
 
-_Representation_
+### Representation
 
 The Advocacy Team also champions the missionary and his or her work to our church body and advocates for ongoing participation in that missionaries’ ministry even when he or she is far away. Thanks to the efforts of the Advocate Team, our church feels an ongoing sense of connection to our workers.
 
@@ -35,11 +44,10 @@ Depending on the team members’ season of life, people may need to step out of 
 
 ## What Does An Advocate Team Do?
 
-_Meet Monthly_
-
+### Meet Monthly
 Teams can meet at any time and anywhere, we just ask that each team meet once a month to fulfill their role as advocates.
 
-_Pray_
+### Pray
 
 The main role of an Advocacy Team is to pray monthly as a team and on an individual basis. We also ask that you hold your missionary accountable to update their prayer requests monthly on Google docs.
 
